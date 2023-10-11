@@ -1,4 +1,4 @@
-﻿double numderA = 12;
-double numderB = 5;
-double result = numderA / numderB;
+﻿double numberA = 12;
+double numberB = 5;
+double result = numberA / numberB;
 Console.WriteLine(result);
