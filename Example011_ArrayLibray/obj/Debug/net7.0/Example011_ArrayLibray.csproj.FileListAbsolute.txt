@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\bin\Debug\net7.0\Example011_ArrayLibray.exe
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\bin\Debug\net7.0\Example011_ArrayLibray.deps.json
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\bin\Debug\net7.0\Example011_ArrayLibray.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\bin\Debug\net7.0\Example011_ArrayLibray.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\bin\Debug\net7.0\Example011_ArrayLibray.pdb
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\refint\Example011_ArrayLibray.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.pdb
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\Example011_ArrayLibray.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example011_ArrayLibray\obj\Debug\net7.0\ref\Example011_ArrayLibray.dll
