@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.exe
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.deps.json
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\bin\Debug\net7.0\Examples010_MethodArray.pdb
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\refint\Examples010_MethodArray.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.pdb
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\Examples010_MethodArray.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Examples010_MethodArray\obj\Debug\net7.0\ref\Examples010_MethodArray.dll
