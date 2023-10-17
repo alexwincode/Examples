@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\bin\Debug\net7.0\Example005_CondactionElse.exe
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\bin\Debug\net7.0\Example005_CondactionElse.deps.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\bin\Debug\net7.0\Example005_CondactionElse.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\bin\Debug\net7.0\Example005_CondactionElse.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\bin\Debug\net7.0\Example005_CondactionElse.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\refint\Example005_CondactionElse.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\Example005_CondactionElse.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Example005_CondactionElse\obj\Debug\net7.0\ref\Example005_CondactionElse.dll

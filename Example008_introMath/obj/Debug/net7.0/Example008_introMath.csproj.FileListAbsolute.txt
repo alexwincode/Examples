@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\bin\Debug\net7.0\Example008_introMath.exe
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\bin\Debug\net7.0\Example008_introMath.deps.json
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\bin\Debug\net7.0\Example008_introMath.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\bin\Debug\net7.0\Example008_introMath.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\bin\Debug\net7.0\Example008_introMath.pdb
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\refint\Example008_introMath.dll
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.pdb
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\Example008_introMath.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\Gigbrains_Уроки\gigbrainsC#\C#Lection\Examples\Example008_introMath\obj\Debug\net7.0\ref\Example008_introMath.dll

@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\bin\Debug\net7.0\Exampes002_HelloUser.exe
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\bin\Debug\net7.0\Exampes002_HelloUser.deps.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\bin\Debug\net7.0\Exampes002_HelloUser.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\bin\Debug\net7.0\Exampes002_HelloUser.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\bin\Debug\net7.0\Exampes002_HelloUser.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\refint\Exampes002_HelloUser.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\Exampes002_HelloUser.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Exampes002_HelloUser\obj\Debug\net7.0\ref\Exampes002_HelloUser.dll

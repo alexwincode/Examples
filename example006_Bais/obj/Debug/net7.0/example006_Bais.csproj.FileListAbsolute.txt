@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\bin\Debug\net7.0\example006_Bais.exe
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\bin\Debug\net7.0\example006_Bais.deps.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\bin\Debug\net7.0\example006_Bais.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\bin\Debug\net7.0\example006_Bais.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\bin\Debug\net7.0\example006_Bais.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\refint\example006_Bais.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\example006_Bais.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\example006_Bais\obj\Debug\net7.0\ref\example006_Bais.dll

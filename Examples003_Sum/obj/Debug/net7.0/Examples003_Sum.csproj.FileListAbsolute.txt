@@ -1,0 +1,15 @@
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\bin\Debug\net7.0\Examples003_Sum.exe
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\bin\Debug\net7.0\Examples003_Sum.deps.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\bin\Debug\net7.0\Examples003_Sum.runtimeconfig.json
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\bin\Debug\net7.0\Examples003_Sum.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\bin\Debug\net7.0\Examples003_Sum.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.csproj.AssemblyReference.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.AssemblyInfoInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.AssemblyInfo.cs
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\refint\Examples003_Sum.dll
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.pdb
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\Examples003_Sum.genruntimeconfig.cache
+C:\Users\AlecsWinCat\Desktop\gigbrainsC#\Examples\Examples003_Sum\obj\Debug\net7.0\ref\Examples003_Sum.dll
